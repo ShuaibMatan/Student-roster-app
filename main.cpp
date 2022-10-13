@@ -1,4 +1,4 @@
-// Demonstrate the program’s required functionality by adding a main() function in main.cpp, which will contain the required function calls to achieve the following results:
+// Demonstrate the programâ€™s required functionality by adding a main() function in main.cpp, which will contain the required function calls to achieve the following results:
 #include <iostream>
 #include "roster.h"
 
@@ -7,19 +7,19 @@ int main()
 
 //Print out to the screen, via your application, the course title, the programming language used, your WGU student ID, and your name.
 
-	cout << "Scripting and Programming - Applications C867" << "\n";
+	cout << "School project" << "\n";
 	cout << "In C++" << "\n";
-	cout << "Student ID: #001213811" << "\n";
+	cout << "Student ID: #12345" << "\n";
 	cout << "Shuaib Matan" << "\n";
 
-	// Modify the “studentData Table” to include your personal information as the last item.
+	// Modify the â€œstudentData Tableâ€ to include your personal information as the last item.
 	const string studentData[] =
 	{
 		"A1,John,Smith,John1989@gm il.com,20,30,35,40,SECURITY",
 		"A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
 		"A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
 		"A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-		"A5,Shuaib,Matan,smatan2@wgu.edu,22,40,35,90,SOFTWARE"
+		"A5,Shuaib,Matan,smatan@school.edu,22,40,35,90,SOFTWARE"
 	};
 
 	cout << "\n";

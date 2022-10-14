@@ -4,9 +4,6 @@
 
 int main()
 {
-
-//Print out to the screen, via your application, the course title, the programming language used, your WGU student ID, and your name.
-
 	cout << "School project" << "\n";
 	cout << "In C++" << "\n";
 	cout << "Student ID: #12345" << "\n";

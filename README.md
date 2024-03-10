@@ -6,7 +6,7 @@ This project displays a student roster table that contains the students first an
 
 The program parses the student data table and displays each student by their chosen degree program.
 
-Includes an alogrithm that detects if an invalid email address was submitted to the student data table. 
+Includes an algorithm that detects if an invalid email address was submitted to the student data table. 
 
 It calculates the average days each student spent in their courses. Includes a function that removes a student from the data table. 
 Displays a warning if you ask to remove a student that has already been removed. 
